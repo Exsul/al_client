@@ -62,7 +62,7 @@
 			/>
 			<Tool
 				Name="VCLinkerTool"
-				AdditionalOptions="$(SolutionPath)\..\build\ed\$(ConfigurationName)\ed_$(ConfigurationName).lib&#x0D;&#x0A;$(SolutionPath)\..\build\chat\Deploy\client_chat_Deploy.lib"
+				AdditionalOptions="$(SolutionPath)\..\build\chat\Deploy\client_chat_Deploy.lib"
 				OutputFile="$(OutDir)\$(SolutionName)_$(ProjectName)_$(ConfigurationName).exe"
 				GenerateDebugInformation="true"
 				GenerateMapFile="false"
