@@ -1,0 +1,6 @@
+[submodule "chat"]
+	path = chat
+	url = http://github.com/Exsul/chat
+[submodule "ed"]
+	path = ed
+	url = http://github.com/Exsul/ed
